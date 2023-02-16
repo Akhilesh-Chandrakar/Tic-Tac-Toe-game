@@ -52,4 +52,4 @@ Use the following scripts for deployment:
 },
 ```
 
-Then follow the normal procedure in GitHub Pages and select the `gh-pages` branch.
+tHE APP is live at https://akhileshtictactoe.surge.sh//
